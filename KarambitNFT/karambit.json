@@ -1,0 +1,24 @@
+{
+  "description": "Karambit Crimson Web skin from the game Counter Strike Global Offensive", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://ipfs.io/ipfs/QmcxxucsCSmrB6HrTh3bh6iEnT58vZfoRgf5MNBimVaJ1R?filename=weapon_knife_karambit_hy_webs_light_large.61217494aaae26081c31d87f15739f42b4c1444a.png", 
+  "name": "Karambit Crimson Web",
+  "attributes": [
+    {
+      "trait_type": "Exterior", 
+      "value": "Factory New"
+    }, 
+    {
+      "trait_type": "Quality", 
+      "value": "Covert"
+    }, 
+    {
+      "trait_type": "Pattern", 
+      "value": "597"
+    }, 
+    {
+      "trait_type": "Float", 
+      "value": 0.060107290744781494
+    }
+  ]
+}
